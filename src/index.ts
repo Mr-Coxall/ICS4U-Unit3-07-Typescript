@@ -1,9 +1,9 @@
 /*
 * This program is a vehicle class.
 *
-* @author  Felipe Garcia Affonso
+* @author  Mr Coxall
 * @version 1.0
-* @since   2021-12-25
+* @since   2020-01-01
 */
 
 import { Truck } from "./Truck"
